@@ -41,8 +41,7 @@ Projeto desenvolvido para fins de estudo tendo como base um reposit√≥rio do usu√
 
 <p align="center">
   <img alt="Desktop" src="https://user-images.githubusercontent.com/43099410/214941937-ce1794fc-de6a-47dd-a0fd-07e21b42ba4c.png" width="40%">  
-  ![](https://github.com/delimamatheus/login-screen/blob/master/desktop.gif)
-  ![](desktop.gif)
+  ![desktop](https://user-images.githubusercontent.com/43099410/214945051-17e1e53a-21cf-4e6d-8768-019626f8b48c.gif)
 </p>
 
 
@@ -50,9 +49,9 @@ Projeto desenvolvido para fins de estudo tendo como base um reposit√≥rio do usu√
 
 <p align="center">
   <img width="16%" alt="Mobile" src="https://user-images.githubusercontent.com/43099410/214942005-6066481a-7883-4732-8577-d4778dc0951e.png">
-  ![](https://github.com/delimamatheus/login-screen/blob/master/mobile.gif)
+  ![mobile](https://user-images.githubusercontent.com/43099410/214945146-08773d25-58c1-4d23-a7c8-c51f5da7b756.gif)
+
 </p>
-![](mobile.gif)
 
 
 ---
