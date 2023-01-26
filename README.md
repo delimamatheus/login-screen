@@ -41,14 +41,14 @@ Projeto desenvolvido para fins de estudo tendo como base um reposit√≥rio do usu√
 
 <p align="center">
   <img alt="Desktop" src="https://user-images.githubusercontent.com/43099410/214941937-ce1794fc-de6a-47dd-a0fd-07e21b42ba4c.png" width="40%">
-  ![](https://github.com/delimamatheus/login-screen/blob/master/assets/desktop.gif)
+  ![ ](https://github.com/delimamatheus/login-screen/blob/master/assets/desktop.gif)
 </p>
 
 ### Mobile
 
 <p align="center">
   <img width="16%" alt="Mobile" src="https://user-images.githubusercontent.com/43099410/214942005-6066481a-7883-4732-8577-d4778dc0951e.png">
-  ![](https://github.com/delimamatheus/login-screen/blob/master/assets/mobile.gif)
+  ![ ](https://github.com/delimamatheus/login-screen/blob/master/assets/mobile.gif)
 </p>
 
 ---
