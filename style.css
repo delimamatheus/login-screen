@@ -94,11 +94,11 @@ body {
     transform: translateX(0%);
 }
 
-.call .title {
+.call .title .title-create {
     color: var(--primary);
 }
 
-.title {
+.title .title-create {
     font-size: 2.5rem;
     letter-spacing: 1px;
     color: #383838;
@@ -213,4 +213,54 @@ body {
 .call-btn:hover {
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.188);
     transform: translateY(-2%);
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 95%;
+        height: 80%;        
+    }
+    
+    .title {
+        font-size: 1.9rem;
+    }
+    
+    .social {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1.2rem 0;
+    }
+    
+    .subtitle {
+        margin-bottom: 0.6rem;
+    }
+    
+    .forgot-pass {        
+        font-size: 0.6rem;
+    }
+    
+    .forgot-pass:hover {
+        text-decoration: underline;
+    }
+    
+    .form-btn {
+        padding: 0.9rem 1.5rem;
+    }
+    
+    .call .subtitle {
+        font-size: 0.8rem;
+    }
+    
+    .call-btn {
+        padding: 0.9rem 1.5rem;
+        width: 90%;
+    }
+    
+    .call-btn:hover {
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.188);
+        transform: translateY(-2%);
+    }
 }
